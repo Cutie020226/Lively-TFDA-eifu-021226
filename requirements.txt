@@ -11,3 +11,5 @@ altair
 httpx
 python-docx
 reportlab
+tenacity
+python-dateutil
